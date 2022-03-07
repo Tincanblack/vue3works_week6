@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3works_week6"]=self["webpackChunkvue3works_week6"]||[]).push([[425],{9425:function(e,n,r){r.r(n),r.d(n,{default:function(){return o}});var u=r(3396);const s={class:"my-3"};function t(e,n,r,t,c,k){return(0,u.wg)(),(0,u.iD)("h2",s,"產品管理")}var c={},k=r(89);const a=(0,k.Z)(c,[["render",t]]);var o=a}}]);
+//# sourceMappingURL=425.9be4434b.js.map
